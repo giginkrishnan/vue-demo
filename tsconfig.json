@@ -36,9 +36,7 @@
     "tests/**/*.ts",
     "tests/**/*.tsx",
     "src/components",
-     "src/custom.d.ts"
   ],
-  "files": ["custom.d.ts"],
   "exclude": [
     "node_modules"
   ]
