@@ -8,6 +8,9 @@
       <router-link class="route-links" :to="{ name: 'About' }"
         >About</router-link
       >
+      <router-link class="route-links" :to="{ name: 'AboutTest' }"
+        >Test</router-link
+      >
       <router-view />
     </div>
   </div>
